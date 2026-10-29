@@ -1,0 +1,6 @@
+# Standalone package: develop against the local SDKs. Published installs use the semver ranges in
+# package.json.
+packages: []
+overrides:
+  '@relay-sdk/sdk-browser': link:../sdk-browser
+  '@relay-sdk/react': link:../sdk-react
