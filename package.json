@@ -1,6 +1,6 @@
 {
   "name": "@relay-sdk/react-native",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Official Relay React Native bindings - track a delivery live in iOS and Android apps",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -36,8 +36,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@relay-sdk/react": "^1.7.0",
-    "@relay-sdk/sdk-browser": "^1.7.0"
+    "@relay-sdk/react": "^1.8.0",
+    "@relay-sdk/sdk-browser": "^1.8.0"
   },
   "peerDependencies": {
     "react": ">=18.0.0",
