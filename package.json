@@ -1,6 +1,6 @@
 {
   "name": "@relay-sdk/react-native",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "description": "Official Relay React Native bindings - track a delivery live in iOS and Android apps",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
