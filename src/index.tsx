@@ -1,5 +1,5 @@
 /**
- * Official Relay React Native bindings. Same hooks as `@relay-sdk/react` (`useTaskTracker`,
+ * Official SendRelay React Native bindings. Same hooks as `@relay-sdk/react` (`useTaskTracker`,
  * `useEtaCountdown`), plus a provider that reconnects when the app comes back to the foreground,
  * since iOS and Android close sockets in the background.
  *

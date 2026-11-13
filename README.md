@@ -1,6 +1,6 @@
 # @relay-sdk/react-native
 
-Official [Relay](https://sendrelay.com.ng) React Native bindings: show a delivery's status, the rider on a map and a live arrival time in iOS and Android apps. Works with Expo.
+Official [SendRelay](https://sendrelay.com.ng) React Native bindings: show a delivery's status, the rider on a map and a live arrival time in iOS and Android apps. Works with Expo.
 
 ```bash
 npm install @relay-sdk/react-native
